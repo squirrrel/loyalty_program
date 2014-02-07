@@ -1,0 +1,3 @@
+== NOTES FOR REVIEWER
+
+= Before verifying, seed the database with rake db:seed)
